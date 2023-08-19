@@ -8,12 +8,12 @@ We welcome contributions from everyone! Whether you're a seasoned developer or j
 
 - **Contribute**: Check out our [contribution guidelines](CONTRIBUTING.md) to get started with code contributions.
 - **Discuss**: Join our [Discord](https://discord.gg/RXDHEP6s6b) to discuss ideas, ask questions, and collaborate.
-- **Support**: Our team is dedicated to building top-tier software, and your support can make a significant difference in our efforts! Funding assists us in maintaining current projects, driving new innovations, and ensuring our tools remain open and free for everyone. For more details on how you can sponsor us please review our [funding options](.github/FUNDING.yml).
+- **Support**: Our team is dedicated to building top-tier software, and your support can make a significant difference in our efforts! Funding assists us in maintaining current projects, driving new innovations, and ensuring our tools remain open and free for everyone. For more details on how you can sponsor us please review our [funding options](FUNDING.yml).
 
 
 ## Code of Conduct
 
-We believe in a respectful and inclusive environment for all contributors. Before you contribute or interact with our community, please read our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
+We believe in a respectful and inclusive environment for all contributors. Before you contribute or interact with our community, please read our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Contact Us
 
